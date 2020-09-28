@@ -18,11 +18,9 @@ Here's a brief overview of my core skillset:
 
 ### Back-end
 
-* `Django`
-* `Python`
+* `Python`; `Django`
 * `PostgreSQL`
-* `GraphQL`
-* `REST`
+* `GraphQL`; `REST`
 
 ### Front-end
 
