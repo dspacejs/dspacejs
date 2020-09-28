@@ -8,7 +8,7 @@ Check out [my portfolio](https://danieljs.tech) for more details. If you're work
 
 ## Current work
 
-My primary project is [Dreamflow](https://dreamflow.co), which is basically my life mission. Besides freelancing, most of my time is spent on that.
+My primary project is [Dreamflow](https://dreamflow.co), which is basically my life mission. [cli-esp-trainer](https://github.com/dspacejs/cli-esp-trainer) is a similar project that's going to be interlinked with it. Besides freelancing, most of my time is spent on that.
 
 There's also a bunch of open-source projects I'd like to build but currently don't have the time for. If you'd like to help and have a similar skillset, see my pinned repositories. 
 
