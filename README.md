@@ -10,7 +10,7 @@ Check out [my portfolio](https://danieljs.tech) for more details. If you're work
 
 My primary project is [Dreamflow](https://dreamflow.co), which is basically my life mission. Besides freelancing, most of my time is spent on that.
 
-There's also a bunch of open-source projects I'd like to work on (but can't manage entirely myself) in the future, too. If you'd like to help and have a similar skillset, don't hesitate to ping me.
+There's also a bunch of open-source projects I'd like to build but currently don't have the time for. If you'd like to help and have a similar skillset, see my pinned repositories. 
 
 ## Skillset
 
