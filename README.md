@@ -1,6 +1,6 @@
 # Hey, I'm Daniel
 
-I'm a full-stack engineer full of passion for all aspects of building great software. I've worked on projects of various scales, both solo and as part of a team.
+**I'm a full-stack engineer full of passion for all aspects of building great software.** I've worked on projects of various scales, both solo and as part of a team.
 
 [Craftsmanship](https://danieljs.me/craftsmanship-is-essential/) is something I'm passionate about and take great pride in.
 
