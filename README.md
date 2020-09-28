@@ -32,7 +32,6 @@ Here's a brief overview of my core skillset:
 
 ### DevOps
 
-* Linux (Ubuntu) 
-* Docker
-* VPS (DigitalOcean; Linode)
-* Netlify
+* `Linux (Ubuntu)`; `VPS (DigitalOcean; Linode)`
+* `Docker`
+* `Netlify`
