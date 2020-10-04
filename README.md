@@ -5,6 +5,7 @@
 A bit about me:
 
 * [Craftsmanship](https://danieljs.me/craftsmanship-is-essential/) is something I'm passionate about and take great pride in.
+* My skillset extends beyond coding, such as a keen sense for design, and business intelligence.
 * Freedom is a passion. I'm pro-privacy, love Linux, and only use open-source software. 
 * Contributing to open-source is something I enjoy, whenever I get the chance.
 
