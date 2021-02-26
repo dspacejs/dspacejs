@@ -20,6 +20,7 @@ There's also a bunch of open-source projects I'd like to build but currently don
 * [snazpy](https://github.com/dspacejs/snazpy)
 * [syncvibes](https://github.com/dspacejs/syncvibes)
 * [cli-tarot](https://github.com/dspacejs/cli-tarot)
+* VSCode HTML entities plugin
 
 ## Skillset
 
