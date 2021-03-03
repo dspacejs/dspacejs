@@ -1,6 +1,6 @@
 Self-taught, well-rounded senior full-stack software engineer. I do freelancing and build my own projects.
 
-INTJ-A, vegan, addicted to learning, personal development junkie, spiritual, serious meditator, and pscyhonaut. Obssessed with consciousness.
+INTJ-A, vegan, addicted to learning, personal development junkie, spiritual, serious meditator, and pscyhonaut. Obsessed with consciousness.
 
 Check out [my portfolio](https://danieljs.tech) to learn about me in detail.
 
