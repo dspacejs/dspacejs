@@ -9,3 +9,5 @@ There's also a bunch of open-source projects I'd like to build but currently don
 * [snazpy](https://github.com/dspacejs/snazpy)
 * [syncvibes](https://github.com/dspacejs/syncvibes)
 * [cli-tarot](https://github.com/dspacejs/cli-tarot)
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dspacejs)](https://github.com/anuraghazra/github-readme-stats)
